@@ -1,0 +1,12 @@
+self.__RSC_CSS_MANIFEST={
+  "cssImports": {
+    "/Users/mac/Downloads/Compressed/car-hub-main/app/layout.tsx": [
+      "/Users/mac/Downloads/Compressed/car-hub-main/app/globals.css"
+    ]
+  },
+  "cssModules": {
+    "/Users/mac/Downloads/Compressed/car-hub-main/app/page": [
+      "/Users/mac/Downloads/Compressed/car-hub-main/app/globals.css"
+    ]
+  }
+}
