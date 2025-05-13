@@ -5,8 +5,6 @@ self.__RSC_CSS_MANIFEST={
     ]
   },
   "cssModules": {
-    "/Users/mac/Downloads/Compressed/car-hub-main/app/page": [
-      "/Users/mac/Downloads/Compressed/car-hub-main/app/globals.css"
-    ]
+    "/Users/mac/Downloads/Compressed/car-hub-main/app/page": []
   }
 }
